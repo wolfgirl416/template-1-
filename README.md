@@ -1,1 +1,2 @@
-# wwtbamDiscordBot
+# zesty-tut
+For educational purposes.
